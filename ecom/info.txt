@@ -1,0 +1,2 @@
+client_id = "483483782879-kfsf30n7ad63cdr43btksp7vqrhbnln8.apps.googleusercontent.com"
+Client secret = "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"
